@@ -1,4 +1,4 @@
-# Multiple-fuzzy-Sugeno-lambda-measures-in-networks.-An-application
+# Multiple-fuzzy-Sugeno-lambda-measures-in-networks.-An-application. Appendix
 In this repository we set some information related to the paper entitled "Multiple fuzzy Sugeno lambda-measures in networks. An application".
 We detail the characterization and simulation process needed to generate several benchmark graphs which are considered in the corresponding "Computational results" section of the mentioned paper.
 Each benchmark model represents a multi-dimensional extended vector fuzzy graph, so we distinguis two components in the generation process.
